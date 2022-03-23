@@ -10,7 +10,6 @@ To use it, please replace the word "hidayat" in the code with the word that will
 hidayat@code:~$ sudo apt-get update 
 hidayat@code:~$ https://github.com/hidayat-code/MD5-Hash
 hidayat@code:~$ cd MD5-Hash
-hidayat@code:~$ python DDOS.py
 ```
 then select a code that will be run, because in this tool there are two codes that you can choose, namely the format in decimal or bytes
 # Website
